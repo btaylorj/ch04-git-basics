@@ -1,13 +1,15 @@
 # Exercise 2
 
-This exercise introduces git branches.  In git you can split your
-development into different branches, and change some of these, and
-merge the changes back to the others.
+# play_with_git
+Enjoy
 
-1. This exercise comes in two branches: a) master -- this version, and
-   b) complete -- a version with solutions.
-   
-   list all the versions using git.
+## The Best Teams!
 
-2. Modify this version, by answering the question above ;-)
+1. Chelsea
+2. FC Barcelona
+3. Leds
 
+### Coach of FC Barcelona:
+![cat](fish.jpg)
+
+This is an angry cat
